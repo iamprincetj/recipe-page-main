@@ -20,12 +20,18 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](./screenshot.jpg)
+## Desktop
+
+![desktop](./desktop.png)
+
+## Mobile
+
+![mobile](./mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/iamprincetj/recipe-page-main)
+- Live Site URL: [recipe-page-main](https://iamprincetj.github.io/recipe-page-main/)
 
 ## My process
 
@@ -38,5 +44,5 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - Mobile-first workflow
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@iamprincetj](https://www.frontendmentor.io/profile/iamprincetj)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
